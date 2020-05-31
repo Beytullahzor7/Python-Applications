@@ -9,6 +9,7 @@ def asal_mi(sayi):
         for i in range(2,sayı):
             if (sayı % i == 0):
                 return False
+        return True 
 while True:
     sayı=input("sayı:")
     if sayı=="q":
