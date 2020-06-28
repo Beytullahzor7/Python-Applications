@@ -1,0 +1,20 @@
+Fernando Muslera,Galatasaray
+Atiba Hutchinson,Beşiktaş
+Simon Kjaer,Fenerbahçe
+Radamel Falcao,Galatasaray
+Mario Lemina,Galatasaray
+Marcao,Galatasaray
+Belhanda,Galatasaray
+Adem Büyük,Galatasaray
+Altay Bayındır,Fenerbahce
+Luiz Gustavo,Fenerbahce
+Vedat Muriqi,Fenerbahce
+Deniz Türüç,Fenerbahce
+Serdar Aziz,Fenerbahce
+Adem Ljaic,Beşiktaş
+Burak Yılmaz,Beşiktaş
+Elneny,Beşiktaş
+Nkodou,Beşiktaş
+Boateng,Beşiktaş
+
+
